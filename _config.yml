@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "FEAST"
 title_separator          : "-"
 subtitle                 : Feedback in Emerging extrAgalactic Star clusTers
-name                     : "Your Name"
+name                     : " "
 description              : Uncovering the star formation process in local galaxies
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Alex Pedrini"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "PhD Student"
+  location         : "Stockholm"
   email            :
   links:
     - label: "Email"
